@@ -1,0 +1,13 @@
+{
+  "name": "claude-team-plugins",
+  "owner": {
+    "name": "avi1234"
+  },
+  "plugins": [
+    {
+      "name": "team1-plugin",
+      "source": "./team1-plugin",
+      "description": "Team engineering standards, onboarding, and PR workflows"
+    }
+  ]
+}
