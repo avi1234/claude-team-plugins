@@ -3,6 +3,9 @@
   "owner": {
     "name": "avi1234"
   },
+  "metadata": {
+    "description": "A template marketplace for engineering teams to share Claude Code plugins with standards, onboarding, and workflows"
+  },
   "plugins": [
     {
       "name": "team1-plugin",
